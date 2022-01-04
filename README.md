@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 <h1 align="left">Hi there, I'm Karan <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
 <h3 align="left"> I am a Full Stack Developer and Competetive Programmer. I love coding, chess, writing, and traveling. </h3>
 <h3 align="left"> Glad to see you here! :smile: </h3>
-<h5 align="left">📍 Currently base at: Kota, India</h5>
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=TyagiDeamon.TyagiDeamon)
+
+<h5 align="left">🎓Currently pursuing B.Tech in Mechanical Engineering at IIT (ISM) Dhanbad</h5>
+<h5 align="left">📍 From Kota, Rajasthan</h5>
 
 
 
@@ -28,9 +32,7 @@ Here are some ideas to get you started:
 <p align='left'>
 <a href = 'https://www.linkedin.com/in/karan-tyagi-3b73281a0/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.instagram.com/karan._.tyagi/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
-<a href = 'https://github.com/TyagiDeamon'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
- 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=TyagiDeamon.TyagiDeamon)
+<a href = 'https://github.com/TyagiDeamon'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
 
 
