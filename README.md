@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 <p align='left'>
 <a href = 'https://www.linkedin.com/in/karan-tyagi-3b73281a0/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.instagram.com/karan._.tyagi/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
-<a href = 'https://github.com/TyagiDeamon'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+  <p>My Email: karantyagi9702@gmail.com</p>
+<!-- <a href = 'https://github.com/TyagiDeamon'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> -->
   
 
 
